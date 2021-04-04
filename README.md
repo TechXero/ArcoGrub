@@ -4,6 +4,6 @@ This is where ArcoLinux Grub Theme will be. Constantly updated so keep coming ba
 
 1- Git Clone this repo<br />
 2- chmod +x ./install.sh<br />
-3- Execute sudo ./install.sh<br /><br />
+3- Execute sudo ./install.sh<br />
 
 Enjoy ;)
