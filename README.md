@@ -1,6 +1,6 @@
 # ArcoGrub Theme
 
-[![ArcoGrub](http://img.youtube.com/vi/05ndG6SzfnM/0.jpg)](https://www.youtube.com/watch?v=05ndG6SzfnM)
+[![ArcoGrub](https://imghost.techxero.com/images/8PL.png)](https://www.youtube.com/watch?v=05ndG6SzfnM)
 
 This is where ArcoLinux Grub Theme will be. Constantly updated so keep coming back. I included a script that makes installing much easier, just follow steps below :<br />
 
